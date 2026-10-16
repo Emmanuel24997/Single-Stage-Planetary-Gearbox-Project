@@ -36,3 +36,5 @@ single-stage-planetary-gearbox/
 │   └── GearboxAssembly.mp4
 └── Docs/
     └── Documents for properties and other things
+Drawings/
+2d drawings of the project
