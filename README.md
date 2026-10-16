@@ -4,7 +4,7 @@ A custom single-stage planetary gearbox assembly modeled, simulated, and animate
 
 ## 📸 Visual Showcase
 
-![GearboxAssembly](Renders/isometric-view.png)
+![GearboxAssembly](Renders/GearboxAssembly.png)
 
 ## 📊 Technical Specifications
 
