@@ -28,11 +28,11 @@ A custom single-stage planetary gearbox assembly modeled, simulated, and animate
 ```text
 single-stage-planetary-gearbox/
 ├── CAD/
-│   ├── Gearbox_Assembly.step
+│   ├── Gearbox_Assembly CAD files
 │   └── ...
 ├── Renders/
-│   └── isometric-view.png
+│   └── GearboxAssembly.png
 ├── Animations/
-│   └── motion-study.mp4
+│   └── GearboxAssembly.mp4
 └── Docs/
-    └── specs.txt
+    └── Documents for properties and other things
